@@ -1,0 +1,1 @@
+drag the folder called x into your mission.sqm root directory
